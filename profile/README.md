@@ -24,3 +24,7 @@ Official GitHub Organization for **RedTeamAPT** — Specialized Academy for Adva
 
 ### ⚠️ Disclaimer
 > All tools, repositories, and technical materials published here are solely intended for educational purposes, authorized security testing, and defensive research. Any unauthorized usage is strictly prohibited.
+
+### 📊 Academy Engineering & Contribution Stats
+![Academy Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=omid76h&show_icons=true&theme=tokyonight&title_color=61afef&text_color=abb2bf&bg_color=1e2227)
+
